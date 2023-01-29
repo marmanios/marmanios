@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-<a href="https://github.com/marmanios"><img alt="Vistors" title="Github Vistors" src ="https://my-github-vistor-counter.herokuapp.com/"></a>
+### Hi There 👋
 
 <h2 align="center"> :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </h2>
 
