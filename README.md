@@ -41,7 +41,7 @@ I'd love to get in touch! Click the links below or check out
 
 <List2 style="display: inline-block;" align="left">
   
-  <a href="https://www.linkedin.com/in/maged-armanios/"><img alt="Linkedin" title="Linkedin Profile" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit">
+  <a href="https://www.linkedin.com/in/magedarmanios/"><img alt="Linkedin" title="Linkedin Profile" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit">
   </a>
   <a href="https://www.instagram.com/maged_armanios/"><img alt="Instagram" title="Instagram Profile" src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
