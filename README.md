@@ -8,11 +8,4 @@
 
 <h2 align="center"> 📫 𝙷𝚘𝚠 𝚝𝚘 R𝚎𝚊𝚌𝚑 M𝚎 </h2>
 
-I'd love to get in touch! Click the links below or check out
-
-<List2 style="display: inline-block;" align="left">
-  
-  <a href="https://www.linkedin.com/in/magedarmanios/"><img alt="Linkedin" title="Linkedin Profile" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit">
-  </a>
-
-</List2>
+The best way to reach out to me is to send a message or connect on <a href="https://www.linkedin.com/in/magedarmanios/"><img alt="Linkedin" title="Linkedin Profile" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"></a>
